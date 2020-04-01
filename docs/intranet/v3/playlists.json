@@ -6,14 +6,66 @@
     "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
     "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
     "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
-    "SubjectId": "",
+    "SubjectId": "de081db5-7e5c-4819-8614-a4158bf9a82f",
     "Source": "Microsoft",
-    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "Learn about the text editor web part to add text content, formatting and display.",
+    "CatId": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+    "Description": "Learn how to create pages, sections, layouts, templates",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
-      "28dad67b-adb8-4df5-822b-677d81968eda"
+      "4d036842-436f-43a6-814b-03129a7544e1",
+      "dd455016-6d4c-41cf-895e-d25e325e06d6",
+      "3cd30f7c-923a-47aa-9391-f0719c2dc00a",
+      "290baccf-fe9b-49f7-bac2-4978779221b6",
+      "bccc5704-3777-4960-aad3-bd34378fa850"
+    ]
+  },
+  {
+    "Id": "bd032645-814e-49f4-83ce-7038ceb7c76c",
+    "Title": "Using features in Modern SharePoint Sites",
+    "Image": "images/playlists/use_word_for_school.png",
+    "LevelId": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+    "AudienceId": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "128c5862-9335-447d-9e52-4ce2cd22489c",
+    "Source": "Microsoft",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "Learn how to use features in modern pages and sites",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "e16c501d-b6f9-46f1-86fd-2de6682a9214"
+    ]
+  },
+  {
+    "Id": "f4525dfd-adab-406a-a029-10b9edc5aa22",
+    "Title": "Modern SharePoint Web Parts",
+    "Image": "images/playlists/formatting.png",
+    "LevelId": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+    "AudienceId": "71ec9903-1498-49e2-8514-428e35617b18",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "Source": "Microsoft",
+    "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+    "Description": "",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "28dad67b-adb8-4df5-822b-677d81968eda",
+      "d4a03785-13f0-4644-ab10-f87e6c09e4fc",
+      "36959cb0-023a-41fa-a4ff-e8ad81436610",
+      "5165cc4c-2b79-4753-9806-f47105719ba6",
+      "95d47e33-2998-441d-a5ff-635212a39a60",
+      "0f323983-2e4b-4d93-8d91-3b116fa07fcf",
+      "a058a7b7-2456-440c-abea-5c1d3a8c0490",
+      "4a4ccfe8-d7c9-4ec1-b8c8-5a909de22d30",
+      "4a29d765-d189-4b56-97db-ec80a45a2496",
+      "57f554df-0194-4f0e-ade0-5fe22447d12c",
+      "92dc043b-4c25-422e-96be-1666f2e3f7a5",
+      "7655042f-6c38-4676-9c6e-d94c5b5e1538",
+      "d1978ad5-f12c-4539-a692-874de94fcc72",
+      "50111445-8293-4ff4-93c6-a7e8ccfd6789",
+      "672bec16-8dcf-40fe-8e4a-15aacc2013cb"
     ]
   },
   {
