@@ -1,0 +1,36 @@
+[
+  {
+    "Id": "28dad67b-adb8-4df5-822b-677d81968eda",
+    "Title": "Add Text and Tables to your modern page",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/add-text-and-tables-to-your-page-with-the-text-web-part-729c0aa1-bc0d-41e3-9cde-c60533f2c801?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "",
+    "Title": "Using the YouTube web part",
+    "Description": "Learn how to use the modern YouTube web part in your pages",
+    "Url": "https://support.office.com/en-gb/client/Use-the-YouTube-web-part-c14fa2c1-71dc-4e52-94b6-b4876742382f?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+  {
+    "Id": "39a23830-452d-474c-ae1f-47a6ebefa21a",
+    "Title": "Create a form",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/39a23830-452d-474c-ae1f-47a6ebefa21a?embed=true&ns=trainingservices&version=1",
+    "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  }
+]

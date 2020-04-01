@@ -1,0 +1,232 @@
+{
+  "Technologies": [
+   
+    {
+      "Id": "309b4120-9366-4257-bc06-1d9dd090fe85",
+      "Name": "Forms",
+      "Subjects": []
+    },
+    {
+      "Id": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+      "Name": "SharePoint",
+      "Subjects": [
+        {
+          "Id": "de081db5-7e5c-4819-8614-a4158bf9a82f",
+          "Name": "Page Editing"
+        },
+        {
+          "Id": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+          "Name": "Web Parts"
+        },
+        {
+          "Id": "18c061f0-49c0-4acd-98cb-cc6999c3a3fe",
+          "Name": "Site Branding and Customization"
+        }
+      ]
+    },
+    {
+      "Id": "7784ef56-9bac-48ba-83f9-1ae1b09f7336",
+      "Name": "Yammer",
+      "Subjects": []
+    },
+    {
+      "Id": "d1aa51f5-ef9e-4ace-ac5f-31e960cfb1ed",
+      "Name": "Sway",
+      "Subjects": []
+    },
+    {
+      "Id": "4f0d166f-5ae5-4490-b2b1-749a172181d4",
+      "Name": "Accessibility",
+      "Subjects": []
+    },
+    {
+      "Id": "77d7953a-de02-466a-a801-f3209f7f3ea1",
+      "Name": "Office 365",
+      "Subjects": []
+    }
+  ],
+  "Categories": [
+    {
+      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
+      "Name": "Get Started",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        {
+          "Id": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+          "Name": "First Days",
+          "Image": "images/categories/first_days.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
+          "Name": "Recommended",
+          "Image": "images/categories/recommended.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    },
+    {
+      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
+      "Name": "Products",
+      "Image": "",
+      "TechnologyId": "",
+      "SubjectId": "",
+      "Source": "Microsoft",
+      "SubCategories": [
+        
+        {
+          "Id": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
+          "Name": "SharePoint",
+          "Image": "images/categories/sharepoint.png",
+          "TechnologyId": "a97cb2db-55fb-43ec-8ded-67909ce1c61f",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "daeade40-9dfc-4d82-84be-9ae7544829dc",
+          "Name": "Forms",
+          "Image": "images/categories/forms_training.png",
+          "TechnologyId": "309b4120-9366-4257-bc06-1d9dd090fe85",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
+          "Name": "Accessibility",
+          "Image": "images/categories/accessibility.png",
+          "TechnologyId": "4f0d166f-5ae5-4490-b2b1-749a172181d4",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        },
+        {
+          "Id": "a4a6fcbd-8823-4e88-8c5a-983f81073edc",
+          "Name": "Stream",
+          "Image": "images/categories/stream.png",
+          "TechnologyId": "77d7953a-de02-466a-a801-f3209f7f3ea1",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }
+      ]
+    }
+  ],
+  "Audiences": [
+    {
+      "Id": "244c1424-e093-4cef-8b08-53e239973dba",
+      "Name": "Admin"
+    },
+    {
+      "Id": "33ae34f5-6299-406f-be6a-a76ad01c3a2f",
+      "Name": "HelpDesk"
+    },
+    {
+      "Id": "023c4e46-9831-4d9a-8393-c1bf0e6e9e0b",
+      "Name": "Change Manager"
+    },
+    {
+      "Id": "43d0273e-58ea-420f-9329-7fae8f50cc9b",
+      "Name": "Champions/Trainer"
+    },
+    {
+      "Id": "dd5ebed9-7eec-4234-ba45-183e52d615c5",
+      "Name": "Executive Assistant"
+    },
+    {
+      "Id": "496602e0-ca9e-4c4a-9d5b-cb0988b01691",
+      "Name": "VIP"
+    },
+    {
+      "Id": "b704880e-1289-48fe-80f7-a8acacf9bc1b",
+      "Name": "End User"
+    },
+    {
+      "Id": "71ec9903-1498-49e2-8514-428e35617b18",
+      "Name": "Content Editor"
+    },
+    {
+      "Id": "92849a23-5e12-4d6f-8402-310aea9f070c",
+      "Name": "Content Manager"
+    },
+    {
+      "Id": "088970bc-2ddd-4fd4-b448-0a8989dfae54",
+      "Name": "Group Owner"
+    },
+    {
+      "Id": "da3202c8-253a-4dc6-9010-13fcfd8c5e43",
+      "Name": "Site Sponsor"
+    },
+    {
+      "Id": "28583661-f6fe-4ddb-b50f-fc73a20d3ae7",
+      "Name": "All"
+    }
+  ],
+  "Sources": [
+    "SOC",
+    "FastTrack",
+    "M365",
+    "Microsoft",
+    "LinkedIn"
+  ],
+  "Levels": [
+    {
+      "Id": "f800c81b-ba2b-4b0f-9de5-3d42a0f45202",
+      "Name": "Beginner"
+    },
+    {
+      "Id": "a5522c84-14c5-4b36-b28e-9c6364837c98",
+      "Name": "Intermediate"
+    },
+    {
+      "Id": "0f33c98a-7ef7-48aa-8010-96135899ef0f",
+      "Name": "Advanced"
+    }
+  ],
+  "StatusTag": [
+    {
+      "Id": "ecee7e26-7ac3-41b2-8d06-90843e3ec7a7",
+      "Name": "New"
+    },
+    {
+      "Id": "7694f261-bf60-40bc-8dfd-4cfe7ac4a930",
+      "Name": "Updated"
+    },
+    {
+      "Id": "1bd4974f-90c7-4dd1-86e0-cc000fbd5550",
+      "Name": "Retiring"
+    },
+    {
+      "Id": "915bd420-54bb-4ae0-9899-5ccfd660d2ae",
+      "Name": "Retired"
+    },
+    {
+      "Id": "98552d52-b868-46c5-9789-5c34f3449a4e",
+      "Name": "Beta"
+    }
+  ],
+  "Telemetry": {
+    "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
+  },
+  "Version": {
+    "Manifest": "v3",
+    "ManifestMinWebPart": "3.0.0",
+    "CurrentWebPart": "3.0.4",
+    "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
+  },
+  "ContentPacks": [],
+  "AssetOrigins": [
+    "https://support.office.com",
+    "https://docs.microsoft.com"
+  ]
+}
