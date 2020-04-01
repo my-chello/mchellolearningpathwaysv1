@@ -12,7 +12,7 @@
   },
 
   {
-    "Id": "",
+    "Id": "d4a03785-13f0-4644-ab10-f87e6c09e4fc",
     "Title": "Using the YouTube web part",
     "Description": "Learn how to use the modern YouTube web part in your pages",
     "Url": "https://support.office.com/en-gb/client/Use-the-YouTube-web-part-c14fa2c1-71dc-4e52-94b6-b4876742382f?embed=true&ns=trainingservices&version=1",
@@ -22,6 +22,235 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
+
+  {
+    "Id": "36959cb0-023a-41fa-a4ff-e8ad81436610",
+    "Title": "Using the Twitter web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-twitter-web-part-15db6b3b-d167-41dd-9875-2af64b44d820",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "5165cc4c-2b79-4753-9806-f47105719ba6",
+    "Title": "Using the Yammer web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "95d47e33-2998-441d-a5ff-635212a39a60",
+    "Title": "Using the Image web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-image-web-part-a63b335b-ad0a-4954-a65d-33c6af68beb2",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "0f323983-2e4b-4d93-8d91-3b116fa07fcf",
+    "Title": "Using the Quick Links web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-quick-links-web-part-e1df7561-209d-4362-96d4-469f85ab2a82",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "",
+    "Title": "Showing profiles using the people web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/show-people-profiles-on-your-page-with-the-people-web-part-7e52c5f6-2d72-48fa-a9d3-d2750765fa05",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "4a4ccfe8-d7c9-4ec1-b8c8-5a909de22d30",
+    "Title": "Using the Stream web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-stream-web-part-b97fa87c-1337-4271-a059-17f0d2b26e8b",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "",
+    "Title": "Using the News web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-news-web-part-on-a-sharepoint-page-c2dcee50-f5d7-434b-8cb9-a7feefd9f165",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "57f554df-0194-4f0e-ade0-5fe22447d12c",
+    "Title": "Using the Highlighted content web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-highlighted-content-web-part-e34199b0-ff1a-47fb-8f4d-dbcaed329efd",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "92dc043b-4c25-422e-96be-1666f2e3f7a5",
+    "Title": "Using the Microsoft Forms web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-microsoft-forms-web-part-d4b4d3ce-7860-41e4-8a98-76380efe7256",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "7655042f-6c38-4676-9c6e-d94c5b5e1538",
+    "Title": "Using the Hero web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-hero-web-part-d57f449b-19a0-4b0d-8ce3-be5866430645",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "d1978ad5-f12c-4539-a692-874de94fcc72",
+    "Title": "Using the Embed web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/add-content-to-your-page-using-the-embed-web-part-721f3b2f-437f-45ef-ac4e-df29dba74de8",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "50111445-8293-4ff4-93c6-a7e8ccfd6789",
+    "Title": "Using the Events web part",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-events-web-part-5fe4da93-5fa9-4695-b1ee-b0ae4c981909",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "672bec16-8dcf-40fe-8e4a-15aacc2013cb",
+    "Title": "Using all web parts on SharePoint pages",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/using-web-parts-on-sharepoint-pages-336e8e92-3e2d-4298-ae01-d404bbe751e0",
+    "TechnologyId": "16cebced-e64d-40e6-a6cf-504d1b295f6c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "e16c501d-b6f9-46f1-86fd-2de6682a9214",
+    "Title": "Using the Saved for later feature",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/use-the-saved-for-later-web-part-7bf0682f-a273-4d81-9424-0d90972f8750",
+    "TechnologyId": "128c5862-9335-447d-9e52-4ce2cd22489c",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "4d036842-436f-43a6-814b-03129a7544e1",
+    "Title": "Create and use modern pages",
+    "Description": "",
+    "Url": "ttps://support.office.com/en-gb/client/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec#bkmk_addpage",
+    "TechnologyId": "de081db5-7e5c-4819-8614-a4158bf9a82f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "dd455016-6d4c-41cf-895e-d25e325e06d6",
+    "Title": "Management lifecycle of SharePoint modern pages",
+    "Description": "",
+    "Url": "https://support.office.com/en-gb/client/management-and-lifecycle-of-a-sharepoint-modern-page-3410a04c-3ca4-4a4c-b867-33ab5c8bdcf3",
+    "TechnologyId": "de081db5-7e5c-4819-8614-a4158bf9a82f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "3cd30f7c-923a-47aa-9391-f0719c2dc00a",
+    "Title": "Adding sections and columns on a SharePoint modern page",
+    "Description": "",
+    "Url": "https://support.microsoft.com/en-us/office/add-sections-and-columns-on-a-sharepoint-modern-page-fc491eb4-f733-4825-8fe2-e1ed80bd0899",
+    "TechnologyId": "de081db5-7e5c-4819-8614-a4158bf9a82f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "290baccf-fe9b-49f7-bac2-4978779221b6",
+    "Title": "Add a page to a communication site",
+    "Description": "",
+    "Url": "https://support.office.com/en-us/client/add-a-page-to-a-communication-site-ce16986a-25ec-4907-b820-44d01ae8afb5",
+    "TechnologyId": "de081db5-7e5c-4819-8614-a4158bf9a82f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
+  {
+    "Id": "bccc5704-3777-4960-aad3-bd34378fa850",
+    "Title": "Image sizing and scaling details for modern SharePoint pages",
+    "Description": "",
+    "Url": "https://support.microsoft.com/en-us/office/image-sizing-and-scaling-in-sharepoint-modern-pages-dc510065-b5a5-4654-bc94-e3ecbbb57d8d",
+    "TechnologyId": "de081db5-7e5c-4819-8614-a4158bf9a82f",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
+
   {
     "Id": "39a23830-452d-474c-ae1f-47a6ebefa21a",
     "Title": "Create a form",
