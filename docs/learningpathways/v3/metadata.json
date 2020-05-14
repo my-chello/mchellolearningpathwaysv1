@@ -131,7 +131,7 @@
      {
       "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b75",
       "Name": "Publiek",
-      "Image": "images/categories/illustration_cloudjumper.png",
+      "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
@@ -139,7 +139,7 @@
         {
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cbb",
           "Name": "Kantoor medewerker",
-          "Image": "images/categories/illustration_cloudjumper.png",
+          "Image": "images/categories/thumb_7157_path_default.png",
           "TechnologyId": "",
           "SubjectId": null,
           "Source": "Microsoft",
