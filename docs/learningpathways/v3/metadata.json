@@ -145,7 +145,7 @@
           "Source": "Microsoft",
           "SubCategories": []
         },
-		{
+	{
           "Id": "07aa7fb7-a187-4a04-a044-f881626a8cbc",
           "Name": "Buitendienst",
           "Image": "images/categories/illustration_cloudjumper.png",
@@ -153,7 +153,16 @@
           "SubjectId": null,
           "Source": "Microsoft",
           "SubCategories": []
-        }		
+        },
+	{
+          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cbd",
+          "Name": "Management",
+          "Image": "images/categories/illustration_cloudjumper.png",
+          "TechnologyId": "",
+          "SubjectId": null,
+          "Source": "Microsoft",
+          "SubCategories": []
+        }	      
 	  ]
     },
 	{
